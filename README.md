@@ -1,3 +1,7 @@
+This webiste is a fork from [http://kristopolous.github.io/BOOTSTRA.386/](http://kristopolous.github.io/BOOTSTRA.386/)
+
+Consider giving them a donation and a star.
+
 # [See A Demo By Clicking Here](http://kristopolous.github.io/BOOTSTRA.386/)
 
 ### Download for your favorite bootstrap version with all the necessary JS and CSS to get started right away:
@@ -88,20 +92,4 @@ Also you can give me money, as little as $1/month ... Click on that heart sponso
 
 ### Bugs and Stuff
 
-Check out the [contribution](https://github.com/kristopolous/BOOTSTRA.386/blob/master/CONTRIBUTING.md) doc - it's easy, I swear.
-
-### Contact
-
- * [Mailing list](https://groups.google.com/forum/#!forum/bootstra-386)
- * Also try my github username on your messaging platform of choice 
-
-### See [the wiki](https://github.com/kristopolous/BOOTSTRA.386/wiki/) for more documentation.
-
-### Attributions
-
-The font for the v4 is by VileR, used under Creative Commons Share-Alike, which [can be found at int10h.org](https://int10h.org/oldschool-pc-fonts/fontlist/).
-
---- 
-Notes
-
-[1] The v3 version kinda sucked. You don't want that, do you? Brooks' 2nd system effect, not just the musings of 1975.  Anyway, v4 is coming ...
+Check out the [contribution](https://github.com/kristopolous/BOOTSTRA.386/blob/master/CONTRIBUTING.md) doc.
